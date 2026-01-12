@@ -11,8 +11,7 @@
 
 ## Projects
 - Bakery Sales Report System (Python + Tkinter)  
-- Customer Segmentation using KMeans  
-- Smart City Data Analysis (Coming Soon)
+- AI Voice assistant
 
 ## Contact
-- Email: yourprofessionalemail@gmail.com
+- Email: mihikajain2423@gmail.com
