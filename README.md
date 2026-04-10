@@ -12,7 +12,7 @@
 ![Scikit-Learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white)
 ### 🚀 Featured Projects
 
-* **[E-Commerce Sales Intelligence Dashboard](link-here)**
+* **[E-Commerce Sales Intelligence Dashboard][E-Commerce Sales Intelligence Dashboard](https://github.com/Mihi2724/E-Commerce-Sales-Intelligence)
     * *Tech:* Power BI, Python, Pandas
     * Cleaned 10,000+ rows of data and built a dynamic dashboard to track Profit Margins and regional KPIs.
 
